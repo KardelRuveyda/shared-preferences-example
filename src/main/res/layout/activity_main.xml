@@ -8,6 +8,7 @@
     android:background="#b8f9ed"
     tools:context=".MainActivity">
 
+
     <EditText
         android:id="@+id/edittext"
         android:layout_width="match_parent"

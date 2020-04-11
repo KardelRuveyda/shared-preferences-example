@@ -75,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
                 femaleCheckBox.clearFocus();
                 maleCheckBox.clearFocus();
 
+
                 Toast.makeText(getApplicationContext(),"Succesful Registered!",Toast.LENGTH_LONG).show();
             }
         });
