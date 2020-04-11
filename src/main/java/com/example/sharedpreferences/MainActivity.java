@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
     String height;
     Boolean male;
     Boolean female;
-    Boolean swhApp;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
